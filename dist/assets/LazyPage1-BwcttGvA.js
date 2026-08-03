@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t=e(),n=()=>(0,t.jsx)(`h1`,{children:`LazyPage 1`});export{n as LazyPage1,n as default};
